@@ -1,8 +1,8 @@
 const int A1A = 2;//define pin 2 for A1A
 const int A1B = 3;//define pin 3 for A1B
 
-const int B1A = 8;//define pin 8 for B1A
-const int B1B = 9;//define pin 9 for B1B
+const int B1A = 4;//define pin 8 for B1A
+const int B1B = 5;//define pin 9 for B1B
 
 // Define Joystick Connections
 #define joyX A0
